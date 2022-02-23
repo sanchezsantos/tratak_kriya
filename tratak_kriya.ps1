@@ -4,7 +4,7 @@ $advanced=120 #2min, 4min, 8min = 28 mins
 
 
 $mode=$basic
-Write-Host("`r`nThis is the buffer time of 20 seconds, your practice at the next chime." + "`r`n`r`nTime will increment by " + $mode.ToString() + " seconds each cycle.")
+Write-Host("`r`nThis is the buffer time of 20 seconds, your practice will start at the next chime." + "`r`n`r`nTime will increment by " + $mode.ToString() + " seconds each cycle.")
 
 Start-Sleep -Seconds 20 #buffer, to settle down
 
