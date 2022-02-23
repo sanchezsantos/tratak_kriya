@@ -1,6 +1,6 @@
 # tratak_kriya
 
-This can be used on any windows 10 machine for practice of yogic technique of tratak. It uses default media (.wav) files located at C:\window\media which can be played natively by PS.
+This can be used on any windows 10 machine for practice of the tratak(yoga) kriya. It uses default media (.wav) files located at C:\window\media which can be played natively by PS.
 
 How to use:
 
